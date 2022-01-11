@@ -1,1 +1,1 @@
-Playground to learn GraphQL + TypeORM backend
+Playground to learn GraphQL (Type GraphQL) + TypeORM backend
